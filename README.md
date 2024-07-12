@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwan Hapuarachchi</h1>
-<h3 align="center"> I’m a <strong>2nd Year Engineering Student</strong> in <strong>Electronic and Telecommunication Engineering</strong> at the <strong>University of Moratuwa</h3>
+<h3 align="center"> <strong>2nd Year Engineering Student</strong> in <strong>Electronic and Telecommunication Engineering</strong> at the <strong>University of Moratuwa</h3>
 
 <h2 style="text-align: center;">🔧 Skills and Interests</h2>
 <ul style="text-align: center;">
