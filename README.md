@@ -12,10 +12,10 @@
 
 **Passionate developer and electronics enthusiast, creating innovative solutions with code and circuits.**
 
-**Currently Working On:** Exciting projects involving Computer Vision, Electronics & IoT  
-**Learning:** As much as possible :) 
-**Interests:** PCB design, Mobile & Web devolopment, Computer Vision
-**Contact:** hapuarachchihadnd.22@uom.lk
+**Currently Working On:** Exciting projects involving Computer Vision, Electronics & IoT.  
+**Learning:** As much as possible :).
+**Interests:** PCB design, Mobile & Web devolopment, Computer Vision.
+**Contact:** hapuarachchihadnd.22@uom.lk.
 
 ---
 
