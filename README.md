@@ -17,6 +17,7 @@
 **Open to Collaborate:** Open-source projects related to IoT and electronics  
 **Expertise:** PCB design, Flutter, Next.js  
 **Contact:** hapuarachchihadnd.22@uom.lk
+
 ---
 
 ## Technical Skills
