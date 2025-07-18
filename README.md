@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=2000&pause=1000&color=2F3349&center=true&vCenter=true&width=600&lines=Nuwan+Hapuarachchi;ENTC" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&duration=2000&pause=1000&color=1de099&center=true&vCenter=true&width=600&lines=Nuwan+Hapuarachchi;ENTC+UOM" alt="Header" />
 </div>
 
 <br />
