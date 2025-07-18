@@ -12,10 +12,9 @@
 
 **Passionate developer and electronics enthusiast, creating innovative solutions with code and circuits.**
 
-**Currently Working On:** Exciting projects involving embedded systems and web development  
-**Learning:** Advanced PCB design and cloud technologies  
-**Open to Collaborate:** Open-source projects related to IoT and electronics  
-**Expertise:** PCB design, Flutter, Next.js  
+**Currently Working On:** Exciting projects involving Computer Vision, Electronics & IoT  
+**Learning:** As much as possible :) 
+**Interests:** PCB design, Mobile & Web devolopment, Computer Vision
 **Contact:** hapuarachchihadnd.22@uom.lk
 
 ---
@@ -30,7 +29,7 @@
 | **Frameworks & Libraries** | Next.js • OpenCV • TensorFlow • Keras • PyTorch • Flask • NumPy |
 | **Mobile & Web Development** | Flutter • HTML • CSS • JavaScript • Firebase |
 | **Developer & Design Tools** | Git • VS Code • MPLAB X • Pspice • Altium • OrCAD/Allegro • Xschem • Ngspice • Klayout |
-| **Platforms & Hardware** | AWS • Cisco IOS • Raspberry Pi |
+| **Platforms & Hardware** | AWS • Cisco IOS |
 
 </div>
 
