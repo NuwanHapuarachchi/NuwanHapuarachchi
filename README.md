@@ -16,8 +16,7 @@
 **Learning:** Advanced PCB design and cloud technologies  
 **Open to Collaborate:** Open-source projects related to IoT and electronics  
 **Expertise:** PCB design, Flutter, Next.js  
-**Contact:** nuwan.hapuarachchi@example.com
-
+**Contact:** hapuarachchihadnd.22@uom.lk
 ---
 
 ## Technical Skills
@@ -53,7 +52,7 @@
   <a href="https://www.linkedin.com/in/nuwan-dhananjaya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nuwan.hapuarachchi@example.com">
+  <a href="mailto:hapuarachchihadnd.22@uom.lk">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
